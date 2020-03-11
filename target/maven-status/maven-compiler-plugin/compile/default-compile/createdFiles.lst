@@ -1,0 +1,6 @@
+beans\helper\ProvinciaHelper.class
+beans\ciclovida\DepuracionListener.class
+beans\backing\VacanteForm.class
+domain\dto\Provincia.class
+beans\helper\FacesContextHelper.class
+beans\model\Candidato.class
